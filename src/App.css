@@ -17,6 +17,7 @@
   height: 100vh;
   flex-direction: column;
   align-items: center;
+  margin-top: 20px;
 }
 /* .dayText:last-child {
   border-bottom-right-radius: 50px;
@@ -60,4 +61,58 @@
   box-sizing: border-box;
   padding: 5px 10px;
   font-size: 12px;
+}
+
+.i_card {
+  display: flex;
+  flex-direction: column;
+  width: 25%;
+  background-color: #f5f5f5;
+  border: solid 0.2px;
+  border-radius: 8px;
+  margin-left: 20px;
+}
+
+.cardOne {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  justify-content: space-evenly;
+}
+
+.batch {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  justify-content: space-between;
+  margin: 10px;
+}
+
+.cardTwo {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  justify-content: space-evenly;
+  margin-right: 130px;
+}
+
+.cardThree {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  justify-content: space-evenly;
+  margin-left: 30px;
+}
+
+.activity {
+  display: flex;
+  flex-direction: column;
+  line-height: 0px;
+}
+
+.button {
+  color: blue;
+  border: solid 1px blue;
+  border-radius: 8px;
+  width: 20%;
 }
