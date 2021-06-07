@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Foxmula-Core-Task/static/css/main.97d3b899.chunk.css",
+    "main.js": "/Foxmula-Core-Task/static/js/main.713cb279.chunk.js",
+    "main.js.map": "/Foxmula-Core-Task/static/js/main.713cb279.chunk.js.map",
+    "runtime-main.js": "/Foxmula-Core-Task/static/js/runtime-main.2669e036.js",
+    "runtime-main.js.map": "/Foxmula-Core-Task/static/js/runtime-main.2669e036.js.map",
+    "static/js/2.4886ab52.chunk.js": "/Foxmula-Core-Task/static/js/2.4886ab52.chunk.js",
+    "static/js/2.4886ab52.chunk.js.map": "/Foxmula-Core-Task/static/js/2.4886ab52.chunk.js.map",
+    "static/js/3.2338560b.chunk.js": "/Foxmula-Core-Task/static/js/3.2338560b.chunk.js",
+    "static/js/3.2338560b.chunk.js.map": "/Foxmula-Core-Task/static/js/3.2338560b.chunk.js.map",
+    "index.html": "/Foxmula-Core-Task/index.html",
+    "static/css/main.97d3b899.chunk.css.map": "/Foxmula-Core-Task/static/css/main.97d3b899.chunk.css.map",
+    "static/js/2.4886ab52.chunk.js.LICENSE.txt": "/Foxmula-Core-Task/static/js/2.4886ab52.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2669e036.js",
+    "static/js/2.4886ab52.chunk.js",
+    "static/css/main.97d3b899.chunk.css",
+    "static/js/main.713cb279.chunk.js"
+  ]
+}
